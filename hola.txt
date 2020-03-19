@@ -1,3 +1,19 @@
 hola
 como vas
+git push origin mi_rama
+De Luis Andres para todos:  07:38 PM
+Grails
+De Gina para todos:  07:42 PM
+si
+De Jesus Estrada D. para todos:  07:43 PM
+Esc  :  x
+De Michael Fernandez para todos:  07:48 PM
+¿Por qué en log solo muestra el merge de otra_rama y no el de mi_rama?
+De Jesus Estrada D. para todos:  08:27 PM
+La rama master se crea a partir del primer commit después de crear el repositorio
+git init (crear repo)
+git br -D nombre_rama
+git branch --all
+git push --delete origin nombre_rama
+
 solucionado
